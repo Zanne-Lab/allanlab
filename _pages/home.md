@@ -1,13 +1,12 @@
 ---
-title: "Allan Lab - Home"
+title: "Zanne Lab - Home"
 layout: homelay
-excerpt: "Allan Lab at Leiden University."
+excerpt: "Zanne Lab at George Washington University."
 sitemap: false
 permalink: /
 ---
 
-We are a dynamic research group at the [Leiden Institute of Physics](http://www.physics.leidenuniv.nl). Our aim is to explore and understand [quantum materials](http://condensedconcepts.blogspot.nl/2013/05/what-is-quantum-matter.html), including strange metals, high-temperature superconductors, and quantum critical electron matter.
-
+Our research group focuses on ecological, evolutionary, and biogeographic determinants of species distributions. We do this by measuring physiological, morphological, and anatomical functional traits across many species. We are located at the [Department of Biological Sciences at George Washington University](https://biology.columbian.gwu.edu/) in Washington, DC.
 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="5000" data-pause="hover" >
     <!-- Menu -->
