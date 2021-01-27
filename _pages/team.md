@@ -1,7 +1,7 @@
 ---
-title: "Allan Lab - Team"
+title: "Zanne Lab - Team"
 layout: gridlay
-excerpt: "Allan Lab: Team members"
+excerpt: "Zane Lab: Team members"
 sitemap: false
 permalink: /team/
 ---
@@ -13,7 +13,7 @@ permalink: /team/
 
 Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-students), [alumni](#alumni), [administrative support](#administrative-support), [lab visitors](#lab-visitors).
 
-## Staff
+## Principal Investigator and Graduate Students
 {% assign number_printed = 0 %}
 {% for member in site.data.team_members %}
 
@@ -78,7 +78,7 @@ Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-stu
 
 
 
-## Master and Bachelor Students
+## Undergraduate Students
 {% assign number_printed = 0 %}
 {% for member in site.data.students %}
 
