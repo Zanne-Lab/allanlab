@@ -17,14 +17,13 @@ NSW: With support from the University of Western Sydney and an ARC Discovery Gra
 QLD: We have decay experiments running in rainforest and savanna to examine the relative roles of termites and saprotrophic microbes across a rainfall gradient and through time. We have also measured the diversity of termites and amount of living and deadwood across this gradient.
 
 **Brazil.**
-![]({{ site.url }}{{ site.baseurl }}/images/respic/SmartTip.png){: style="width: 250px; float: left; margin: 0px  10px"}
+![]({{ site.url }}{{ site.baseurl }}/images/respic/brazil.png){: style="width: 250px; float: left; margin: 0px  10px"}
 project updates here 
 
 **France.** 
 The assembly and turnover of microbial communities in plant tissues is poorly understood. We are investigating differences in microbial community composition and structure across years and between tissues for oaks in the Pyrenees and different tree species near Bordeaux. Additionally, leaf and stem hydraulic function is usually examined separately. We are beginning to explore the interactive effects of this joint hydraulic system in conifers and angiosperms.
 
 **USA.**
-![]({{ site.url }}{{ site.baseurl }}/images/respic/brazil.png){: style="width: 250px; float: left; margin: 0px  10px"}
 MD: At the Smithsonian Environmental Research Center, we are monitoring the phenology of fungal fruiting as well as wood decay activity, measured through wood respiration and enzyme activity levels, to determine whether fungal wood decay activity responds to the same environmental drivers as fungal fruiting. This research will help put shifts in fungal fruiting phenology observed in Michigan and northern Europe into the context of ecosystem function in temperate forests.
 MO: Woody plant stems hold much of the carbon in the terrestrial biosphere. The release of carbon from this pool and consequent changes in the climate system, depends on tree mortality and decay. While the general relationship between microclimate and decay is well known, we have a much weaker understanding of how plant construction contributes to variation in mortality and decomposition rates among species. We are examining these topics at Washington University's Tyson Research Center.
 
