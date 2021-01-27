@@ -25,5 +25,5 @@ If you are a Master student at George Washington University looking for a Master
 
 
 <figure>
-<img src="{{ site.url }}{{ site.baseurl }}/images/picpic/Gallery/DSC_0696.jpg" width="95%">
+<img src="{{ site.url }}{{ site.baseurl }}/images/picpic/Gallery/2019-06-21 18.09.39.jpg" width="95%">
 </figure>
