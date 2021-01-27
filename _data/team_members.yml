@@ -6,59 +6,53 @@
   education1: Research interests include ecology, evolution and physiology, especially that of plants and microbes; decomposition, carbon cycling
   education2: Postdoc XXX
   education3: Ph.D. with ____
-  education4: Contact: 
+  education4: other education 
 
 - name: Rebecca Clement
   photo: Becca.jpg
   info: 4th Year PhD Student
   email: rebeccaclement@gwu.edu
-  number_educ: 3
+  number_educ: 2
   education1: I am interested in the evolution and community ecology of insects, especially termites. I love learning about the role that termites play in decomposition and carbon cycling. I am also interested in urban ecology and the ways that insects adapt to living in cities.
   education2: B.S. BYU (?) year
-  education3: Contact: 
 
 - name: Marc Rosenfield
   photo: marc.jpeg
   info: 2nd Year PhD Student
   email: mrosenfield@gwmail.gwu.edu
-  number_educ: 3
+  number_educ: 2
   education1: Research interests include soldering things till the day runs out
-  education2: B.S.  ________
-  education3: Contact: 
+  education2: B.S. BYU (?) year
 
 - name: Abbey Yatsko
   photo: abbey.jpg
   info: 1st Year PhD Student
   email: ayatsko1@gmail.com
-  number_educ: 3
+  number_educ: 2
   education1: I am interested in how carbon is stored and released from terrestrial ecosystems, particularly focusing on the 'release' aspect that processes such as decomposition bring to the table. I am also interested in the role that termites play in deomposition rates in different habitats. 
   education2: B.S. Environmental and Sustainability Science, Cornell University 2020
-  education3: Contact: 
-
+  
 - name: Rose Cheney
   photo: logo.jpg
   info: Undergraduate Student (2019-2022)
   email: 
-  number_educ: 2
+  number_educ: 1
   education1: I am interested in XXXXX
-  education2: Contact: 
 
 - name: Kelsey Bartlett
   photo: logo.jpg
   info: Undergraduate Student (20XX-20XX)
   email: 
-  number_educ: 2
+  number_educ: 1
   education1: I am interested in XXXXX
-  education2: Contact:
   
 - name: Nora Cavanaugh
   photo: logo.jpg
   info: Undergraduate Student (20XX-20XX)
   email: 
-  number_educ: 2
+  number_educ: 1
   education1: I am interested in XXXXX
-  education2: Contact:
-  
+
 # - name: "This could be you !"
 #   photo: logo.jpg
 #   info: See <a href="http://www.allanlab.org/vacancies">openings</a> for more info
