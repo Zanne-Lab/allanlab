@@ -1,10 +1,10 @@
-- title: "Does this title change work - testing"
-  image: TiNHigh.png
-  description: We use our atomic-scale scanning tunneling noise setup on a disordered superconductor, and discover a state above TC that, much like an ordinary metal, has no (pseudo)gap, but carries charge via paired electrons.
-  authors: KM Bastiaans, D Chatzopoulos, J-F Ge, D Cho, WO Tromp, JM van Ruitenbeek, MH Fischer, PJ de Visser, DJ Thoen, EFC Driessen, TM Klapwijk, MP Allan
+- title: "Functional biogeography of angiosperms: life at the extremes"
+  image: 
+  description: To understand linear and nonlinear relationships between angiosperm structure and biogeographic distributions, we integrated large datasets of growth habits, conduit sizes, leaf phenologies, evolutionary histories, and environmental limits. 
+  authors: Amy E. Zanne,  William D. Pearse,  William K. Cornwell,  Daniel J. McGlinn,  Ian J. Wright,  Josef C. Uyeda
   link:
-    url: https://arxiv.org/abs/2101.08535
-    display: arXiv:2101.08535 (2021)
+    url: https://nph.onlinelibrary.wiley.com/doi/full/10.1111/nph.15114
+    display: New Phytologist (2018)
   highlight: 1
 
 - title: "Spatially dispersing Yu-Shiba-Rusinov states in the unconventional superconductor FeTe0.55Se0.45"
