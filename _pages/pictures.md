@@ -12,7 +12,7 @@ Jump to: [Leiden](#leiden), [ETHZ](#ethz), [Cornell](#cornell), [St Andrews](#st
 ## Wood, Termites, and Fungi (WTF)
 
 #### Check out the early days of the WTF project in this fun video!
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=19qldIR-41M" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://youtu.be/19qldIR-41M" frameborder="0" allowfullscreen></iframe>
 
 #### Gallery
 (Right-click *'view image'* to see a larger image.)
