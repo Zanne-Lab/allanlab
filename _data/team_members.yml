@@ -10,28 +10,27 @@
 
 - name: Rebecca Clement
   photo: Becca.jpg
-  info: Postdoc, started Oct 2019
-  email: ge@Physics.LeidenUniv.nl
-  number_educ: 3
-  education1: Postdoc with <a href="http://hoffman.physics.harvard.edu">Jenny Hoffman</a>, Harvard University
-  education2: Ph.D. with <a href="https://www.physics.sjtu.edu.cn/en/people/1/jfJia">Jinfeng Jia</a>, Shanghai Jiao Tong University
-  education3: B.S. East China University of Science and Technology
-
-- name: Koen M Bastiaans
-  photo: Koen.jpg
-  info: Postdoc, started Sep 2015
-  email: Bastiaans@Physics.LeidenUniv.nl
+  info: 4th Year PhD Student
+  email: rebeccaclement@gwu.edu
   number_educ: 2
-  education1: PhD with Milan Allan, Leiden University
-  education2: Master Leiden University with Milan Allan
+  education1: I am interested in the evolution and community ecology of insects, especially termites. I love learning about the role that termites play in decomposition and carbon cycling. I am also interested in urban ecology and the ways that insects adapt to living in cities.
+  education2: B.S. BYU (?) year
 
-- name: Jiasen Niu
-  photo: Jiasen.png
-  info: Postdoc, started Oct 2020
-  email: niu@physics.leidenuniv.nl
+- name: Marc Rosenfield
+  photo: 
+  info: 2nd Year PhD Student
+  email: mrosenfield@gwmail.gwu.edu
   number_educ: 2
-  education1: Ph.D. with <a href="http://www2.phy.pku.edu.cn/~xilin/group-members.html">Xi Lin</a> and <a href="http://faculty.pku.edu.cn/JianWangGroup/en/zhym/25393/list/index.htm">Jian Wei</a>, Peking University
-  education2: BSc Jilin University
+  education1: Research interests include soldering things till the day runs out
+  education2: B.S. BYU (?) year
+
+- name: Abbey Yatsko
+  photo: abbey.jpg
+  info: 1st Year PhD Student
+  email: ayatsko1@gmail.com
+  number_educ: 2
+  education1: I am interested in how carbon is stored and released from terrestrial ecosystems, particularly focusing on the 'release' aspect that processes such as decomposition bring to the table. I am also interested in the role that termites play in deomposition rates in different habitats. 
+  education2: B.S. Environmental and Sustainability Science, Cornell University 2020
 
 - name: Damianos Chatzopoulos
   photo: Damianos.jpg
