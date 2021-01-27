@@ -6,6 +6,8 @@ sitemap: false
 permalink: /
 ---
 
+**WEBSITE UNDER CONSTRUCTION** 
+
 Our research group focuses on ecological, evolutionary, and biogeographic determinants of species distributions. We do this by measuring physiological, morphological, and anatomical functional traits across many species. We are located at the [Department of Biological Sciences at George Washington University](https://biology.columbian.gwu.edu/) in Washington, DC.
 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="5000" data-pause="hover" >
