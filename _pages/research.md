@@ -16,6 +16,10 @@ Here are some field-based projects around the globe that we are currently workin
 NSW: With support from the University of Western Sydney and an ARC Discovery Grant, we have a rot plot at the Hawkesbury Campus in Richmond, NSW with Jeff Powell, Brendan Choat, Peter Reich, and Will Cornwell. This project looks at variation in wood decay across different species and stem sizes. It also compares the succession of microbial communities across the decay trajectory.
 QLD: We have decay experiments running in rainforest and savanna to examine the relative roles of termites and saprotrophic microbes across a rainfall gradient and through time. We have also measured the diversity of termites and amount of living and deadwood across this gradient.
 
+**Brazil**
+![]({{ site.url }}{{ site.baseurl }}/images/respic/SmartTip.png){: style="width: 250px; float: left; margin: 0px  10px"}
+project updates here 
+
 **France** 
 The assembly and turnover of microbial communities in plant tissues is poorly understood. We are investigating differences in microbial community composition and structure across years and between tissues for oaks in the Pyrenees and different tree species near Bordeaux. Additionally, leaf and stem hydraulic function is usually examined separately. We are beginning to explore the interactive effects of this joint hydraulic system in conifers and angiosperms.
 
