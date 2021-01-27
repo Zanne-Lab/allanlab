@@ -31,6 +31,27 @@
   number_educ: 2
   education1: I am interested in how carbon is stored and released from terrestrial ecosystems, particularly focusing on the 'release' aspect that processes such as decomposition bring to the table. I am also interested in the role that termites play in deomposition rates in different habitats. 
   education2: B.S. Environmental and Sustainability Science, Cornell University 2020
+  
+- name: Rose Cheney
+  photo: rock.jpg
+  info: Undergraduate Student (2019-2022)
+  email: 
+  number_educ: 1
+  education1: I am interested in XXXXX
+
+- name: Kelsey Bartlett
+  photo: rock.jpg
+  info: Undergraduate Student (20XX-20XX)
+  email: 
+  number_educ: 1
+  education1: I am interested in XXXXX
+  
+- name: Nora Cavanaugh
+  photo: rock.jpg
+  info: Undergraduate Student (20XX-20XX)
+  email: 
+  number_educ: 1
+  education1: I am interested in XXXXX
 
 - name: "This could be you !"
   photo: rock.jpg
