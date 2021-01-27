@@ -70,8 +70,8 @@ We are located at George Washington University, right in the heart of Washington
 We are grateful for funding from _______________
 
 <figure class="fourth">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_Leiden.jpg" style="width: 210px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_Nanofront.jpg" style="width: 110px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_NWO.jpg" style="width: 120px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_ERC.jpg" style="width: 110px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/GWUlogo.png" style="width: 210px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/biodepartment.png" style="width: 110px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/nsf.png" style="width: 120px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/logo.jpg" style="width: 110px">
 </figure>
