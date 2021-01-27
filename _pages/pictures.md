@@ -6,7 +6,7 @@ permalink: /pictures/
 ---
 
 # Pictures
-Jump to: [Wood, Termites, and Fungi (WTF)](#wood,-termites,-and Fungi-(wtf)), [ETHZ](#ethz), [Cornell](#cornell), [St Andrews](#st-andrews)
+Jump to: [Leiden](#leiden), [ETHZ](#ethz), [Cornell](#cornell), [St Andrews](#st-andrews)
 
 
 ## Wood, Termites, and Fungi (WTF)
