@@ -8,7 +8,7 @@ permalink: /team/
 
 # Group Members
 
- **We are  looking for new PhD students, Postdocs, and Master students to join the team** [(see openings)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
+ **Looking to join our team?** [(See openings in the lab here)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
 
 
 Jump to [our team](#our-team), [recent alumni](#recent-alumni), or [past students](#past-students).
