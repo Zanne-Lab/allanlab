@@ -2,25 +2,22 @@
   photo: amy_profile.jpg
   info: Supreme Leader, Associate Professor of Biology
   email: aezanne@gmail.com
-  number_educ: 2
+  number_educ: 1
   education1: Research interests include ecology, evolution and physiology, especially that of plants and microbes; decomposition, carbon cycling
-  education2: Twitter: @AmyZanne
 
 - name: Rebecca Clement
   photo: Becca.jpg
   info: 4th Year PhD Student
   email: rebeccaclement@gwu.edu
-  number_educ: 2
+  number_educ: 1
   education1: I am interested in the evolution and community ecology of insects, especially termites. I love learning about the role that termites play in decomposition and carbon cycling. I am also interested in urban ecology and the ways that insects adapt to living in cities.
-  education2: Twitter: @BeccasBugs
 
 - name: Marc Rosenfield
   photo: marc.jpeg
   info: 2nd Year PhD Student
   email: mrosenfield@gwmail.gwu.edu
-  number_educ: 2
+  number_educ: 1
   education1: Knowing the rates in which carbon flows in and out of natural ecosystems and urban environments is more important than ever. It is especially difficult to understand carbon cycling across marine-terrestrial gradients, as these areas are seeing some of the most intense environmental changes and disturbances. By developing novel carbon flux systems, I hope to understand short- and long-term changes to carbon cycling in urban systems, patchy ecosystems and marine-terrestrial interfaces. 
-  education2: Twitter: @fluxenfield
 
 - name: Julliene Monteiro
   photo: logo.jpg
