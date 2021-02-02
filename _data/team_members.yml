@@ -2,11 +2,9 @@
   photo: amy_profile.jpg
   info: Supreme Leader, Associate Professor of Biology
   email: aezanne@gmail.com
-  number_educ: 4
+  number_educ: 2
   education1: Research interests include ecology, evolution and physiology, especially that of plants and microbes; decomposition, carbon cycling
-  education2: Postdoc XXX
-  education3: Ph.D. with ____
-  education4: other education 
+  education2: Contact:
 
 - name: Rebecca Clement
   photo: Becca.jpg
