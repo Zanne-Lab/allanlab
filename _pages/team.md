@@ -11,7 +11,7 @@ permalink: /team/
  **We are  looking for new PhD students, Postdocs, and Master students to join the team** [(see openings)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
 
 
-Jump to [our team](#our-team), [recent alumni](#recent-alumni), or [former students](#former-students).
+Jump to [our team](#our-team), [recent alumni](#recent-alumni), or [past students](#past-students).
 
 ## Our Team
 {% assign number_printed = 0 %}
@@ -24,10 +24,10 @@ Jump to [our team](#our-team), [recent alumni](#recent-alumni), or [former stude
 {% endif %}
 
 <div class="col-sm-6 clearfix">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="35%" style="float: left" />
+  <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="42%" style="float: left" />
   <h4>{{ member.name }}</h4>
   <i>{{ member.info }} <!--<br>email: <{{ member.email }}></i> -->
-  <ul style="overflow: auto">
+  <ul style="overflow: hidden">
 
   {% if member.number_educ == 1 %}
   <li> {{ member.education1 }} </li>
@@ -108,7 +108,7 @@ Jump to [our team](#our-team), [recent alumni](#recent-alumni), or [former stude
 </div>
 {% endif %}
 
-## Former students
+## Past students
 <div class="row">
 
 <div class="col-sm-4 clearfix">
