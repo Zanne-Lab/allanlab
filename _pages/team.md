@@ -90,6 +90,7 @@ Jump to [our team](#our-team), [recent alumni](#recent-alumni), or [past student
   <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="42%" style="float: left" />
   <h4>{{ member.name }}</h4>
   <i>{{ member.duration }} <br> Role: {{ member.info }}</i>
+  <i>{{ member.info }} <br>email: <{{ member.email }}></i> 
   <ul style="overflow: hidden">
 
   </ul>
