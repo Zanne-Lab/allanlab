@@ -61,12 +61,12 @@
   number_educ: 1
   education1: I am interested in XXXXX
 
-# - name: "This could be you !"
-#   photo: logo.jpg
-#   info: See <a href="http://www.allanlab.org/vacancies">openings</a> for more info
-#   email: milan.allan@gmail.com
-#   number_educ: 0
-#   education1:
-#   education2:
+- name: Donna Davis
+  photo: DD_Headshot_2.jpg
+  info: Artist-in-residence 
+  email: mdonna.davis2@bigpond.com 
+  number_educ: 2
+  education1: I am a multi-discipline artist intrigued with the idea of connection; my work explores intersections between art and science with a particular focus on natural and social ecosystems.
+  education2: See <a href="www.donnadavisartist.weebly.com"/a> for Donna's website, and check our our gallery for more!)
 #   education3:
 #   education4:
