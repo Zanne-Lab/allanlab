@@ -66,7 +66,7 @@ While classes take on a different form, we have been cleverly adapting to the on
 
 We are located at George Washington University, right in the heart of Washington DC. We love to exchange ideas and work with our neighbors from [The Smithsonian Institution](https://www.si.edu/), as well as with the colleagues from the [Smithsonian Environmental Research Center](https://serc.si.edu/) and the [Natural History Museum in London](https://www.nhm.ac.uk/).
 
- **If you are interested in joining the team please head to our vacancies page for [(more information)]({{ site.url }}{{ site.baseurl }}/vacancies)!**
+ **If you are interested in joining the team please head to our vacancies page for [more information]({{ site.url }}{{ site.baseurl }}/vacancies)!**
 
 
 We are grateful for funding from the National Science Foundation.
