@@ -9,8 +9,10 @@
   photo: Becca.jpg
   info: 4th Year PhD Student
   email: rebeccaclement@gwu.edu
-  number_educ: 1
+  number_educ: 3
   education1: I am interested in the evolution and community ecology of insects, especially termites. I love learning about the role that termites play in decomposition and carbon cycling. I am also interested in urban ecology and the ways that insects adapt to living in cities.
+  education2: Favorite species? Nasutitermes magnus (nasute termites)
+  education3: Favorite thing to cook or bake? Veggie burgers
 
 - name: Marc Rosenfield
   photo: marc.jpeg
@@ -23,15 +25,16 @@
   photo: logo.jpg
   info: PhD Student (co-supervised)
   email: jullienemonteiro@gmail.com
-  number_educ: 1
-  education1: I am interested in...
+  number_educ: 0
+#   education1: I am interested in...
 
 - name: André Mouro
   photo: logo.jpg
   info: PhD Student (co-supervised)
   email: andremourodangioli@gmail.com
-  number_educ: 1
-  education1: I am interested in understanding key factors that control organic matter decomposition, with a focus in fine scale variables such as litter quality and microclimatic conditions. I am also interested in understanding potential plant-soil feedback mechanisms related to organic matter decomposition, and how these feedback mechanisms can influence plant community dynamics. These questions are particularly focused in the Brazilian Cerrados Biome, where I investigate if plant-soil feedbacks influence the savanna-forest transition dynamics. 
+  number_educ: 2
+  education1: I am currently involved in projects that assess how plant-soil feedbacks influence vegetation structure, organic matter turnover and restoration success of the Brazilian Cerrado. 
+  education2: Favorite species? Vochysia thyrsoidea (locally called gomeira), a typical tree species that grows in dystrophic and shallow soil in the Brazilian Cerrado.
   
 - name: Abbey Yatsko
   photo: abbey.jpg
@@ -46,22 +49,22 @@
   photo: logo.jpg
   info: Undergraduate Student
   email: cheneyr@gwu.edu
-  number_educ: 1
-  education1: I am interested in XXXXX
+  number_educ: 0
+#   education1: I am interested in XXXXX
 
 - name: Kelsey Bartlett
   photo: logo.jpg
   info: Undergraduate Student 
   email: kbartlett99@gwmail.gwu.edu 
-  number_educ: 1
-  education1: I am interested in XXXXX
+  number_educ: 0
+#   education1: I am interested in XXXXX
   
 - name: Nora Cavanaugh
   photo: logo.jpg
   info: Undergraduate Student 
   email: noracavanaugh@gwmail.gwu.edu 
-  number_educ: 1
-  education1: I am interested in XXXXX
+  number_educ: 0
+#   education1: I am interested in XXXXX
 
 - name: Donna Davis
   photo: DD_Headshot_2.jpg
