@@ -16,15 +16,15 @@
     display:  Ecosystems (2018)
   highlight: 1
 
-# - title: "Multi-Atom Quasiparticle Scattering Interference for Superconductor Energy-Gap Symmetry Determination"
-#   image: TBG_ARPES.png
-#   description:
-#   authors: R Sharma, A Kreisel, MA Sulangi, J Böker, A Kostin, MP Allan, H Eisaki, AE Böhmer, PC Canfield, I Eremin, JC Davis, PJ Hirschfeld, PO Sprau
-#   link:
-#     url: https://dx.doi.org/10.1038/s41535-020-00303-4
-#     display: npj Quantum Mater. 6, 7 (2021)
-#   highlight: 0
-#   news2:
+- title: "Towards a worldwide wood economics spectrum"
+  image: TBG_ARPES.png
+  description:
+  authors: Jerome Chave, David Coomes, Steven Jansen, Simon L Lewis, Nathan G Swenson, Amy E Zanne
+  link:
+    url: https://doi.org/10.1111/j.1461-0248.2009.01285.x
+    display: Ecology Letters (2009)
+  highlight: 1
+  news2:
 
 # - title: "Mapping local heterogeneity in open twisted bilayer graphene devices"
 #   image: TBG_SL.png
