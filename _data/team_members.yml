@@ -53,11 +53,13 @@
 #   education1: I am interested in XXXXX
 
 - name: Kelsey Bartlett
-  photo: logo.jpg
+  photo: kelsey.jpeg
   info: Undergraduate Student 
   email: kbartlett99@gwmail.gwu.edu 
-  number_educ: 0
-#   education1: I am interested in XXXXX
+  number_educ: 3
+  education1: My current project centers on the mechanisms and predictors of flower phenology shifts. Other research interests include investigating the implications of global change on plant distribution and ecosystem function.
+  education2: Favorite species? My favorite species is probably desert willow (Chilopsis linearis), but the red columbine is a close second (Aquilegia canadensis)!
+  education3: Favorite thing to cook or bake? Lasagna and blackberry scones
   
 - name: Nora Cavanaugh
   photo: logo.jpg
