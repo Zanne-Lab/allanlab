@@ -17,24 +17,24 @@
   highlight: 1
 
 - title: "Towards a worldwide wood economics spectrum"
-  image: TBG_ARPES.png
+  image: pub3.png
   description:
-  authors: Jerome Chave, David Coomes, Steven Jansen, Simon L Lewis, Nathan G Swenson, Amy E Zanne
+  authors: Jerome Chave, David Coomes, Steven Jansen, Simon L. Lewis, Nathan G. Swenson, Amy E. Zanne
   link:
     url: https://doi.org/10.1111/j.1461-0248.2009.01285.x
     display: Ecology Letters (2009)
   highlight: 1
   news2:
 
-# - title: "Mapping local heterogeneity in open twisted bilayer graphene devices"
-#   image: TBG_SL.png
-#   description: Why is there so much variation in TBG devices? And are open devices more disordered than encapsulated ones? We introduce a new method to continuously map inhomogeneities of a moiré lattice and apply it to open-device TBG to show that twist angle variation is small over areas of hundreds of nm.
-#   authors: T Benschop*, TA de Jong*, P Stepanov*, Xiaobo Lu, V Stalman, SJ van der Molen, DK Efetov, MP Allan
-#   link:
-#     url: https://arxiv.org/abs/2008.13766
-#     display:  arXiv:2008.13766 (2020)
-#   highlight: 1
-#   news2:
+- title: "Wood construction more strongly shapes deadwood microbial communities than spatial location over 5 years of decay"
+  image: TBG_SL.png
+  description: 
+  authors: Marissa R. Lee, Brad Oberle, Wendy Olivas, Darcy F. Young, Amy E. Zanne
+  link:
+    url: https://doi.org/10.1111/1462-2920.15212
+    display:  Environmental Microbiology (2020)
+  highlight: 1
+  news2:
 
 # - title: "Direct comparison of ARPES, STM, and quantum oscillation data for band structure determination in Sr2RhO4"
 #   image: Direct.png
