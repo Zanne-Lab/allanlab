@@ -20,7 +20,7 @@ For graduate students, we encourage you to take a look at the [NSF-GRFP](https:/
 ### George Washington University undergraduate students
 If you are an undergraduate student at George Washington University looking for research experience, contact me (or any group member) per email or stop by my office. We would love to learn about what interests your in biology, and how we can help you grow! 
 
-Additionally, George Washington biology undergraduates have the opportunity to pursue a combined Bs/Ms program. Qualified students may pursue the combined degree program to complete a Bachelor of Science in Biology and Master of Science in Biology within five years. The accelerated program allows students to complete some graduate credits as part of their undergraduate program. If you are interested in pursuing this with our lab, please reach out via email (Amy Zanne: aezanne@gmail.com).
+Additionally, George Washington biology undergraduates have the opportunity to pursue a combined Bs/Ms program. Qualified students may pursue the combined degree program to complete a Bachelor of Science in Biology and Master of Science in Biology within five years. The accelerated program allows students to complete some graduate credits as part of their undergraduate program. If you are interested in pursuing this program, check out more information from the GW Biology webpage [here](https://biology.columbian.gwu.edu/combined-bsms-biology). 
 
 NOTE - this is how to embed a PDF [here is last years call]({{ site.baseurl }}/downloads/h2020-wp1820-msca_en.pdf)).**
 
