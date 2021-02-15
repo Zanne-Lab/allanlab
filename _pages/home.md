@@ -68,9 +68,6 @@ We are located at George Washington University, right in the heart of Washington
 
  **If you are interested in joining the team please head to our vacancies page for [more information]({{ site.url }}{{ site.baseurl }}/vacancies)!**
 
-
-We are grateful for funding from the National Science Foundation.
-
 <figure class="fourth">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/GWUlogo.png" style="width: 210px">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/nsf.png" style="width: 120px">
