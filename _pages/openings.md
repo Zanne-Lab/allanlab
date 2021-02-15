@@ -22,7 +22,6 @@ If you are an undergraduate student at George Washington University looking for 
 
 Additionally, George Washington biology undergraduates have the opportunity to pursue a combined Bs/Ms program. Qualified students may pursue the combined degree program to complete a Bachelor of Science in Biology and Master of Science in Biology within five years. The accelerated program allows students to complete some graduate credits as part of their undergraduate program. If you are interested in pursuing this program, check out more information from the GW Biology webpage [here](https://biology.columbian.gwu.edu/combined-bsms-biology). 
 
-NOTE - this is how to embed a PDF [here is last years call]({{ site.baseurl }}/downloads/h2020-wp1820-msca_en.pdf)).**
 
 <figure>
 <img src="{{ site.url }}{{ site.baseurl }}/images/picpic/Gallery/2019-06-21 18.09.39.jpg" width="95%">
