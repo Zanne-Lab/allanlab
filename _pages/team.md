@@ -113,7 +113,7 @@ Jump to [our team](#our-team), [recent alumni](#recent-alumni), or [past student
 <div class="row">
 
 <div class="col-sm-4 clearfix">
-<h4>Visitors</h4>
+<h4>Postdocs, graduate, and undergraduate students</h4>
 {% for member in site.data.alumni_visitors %}
 {{ member.name }}
 {% endfor %}
