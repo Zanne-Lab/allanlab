@@ -119,18 +119,4 @@ Jump to [our team](#our-team), [recent alumni](#recent-alumni), or [past student
 {% endfor %}
 </div>
 
-<div class="col-sm-4 clearfix">
-<h4>PhD and Master students</h4>
-{% for member in site.data.alumni_msc %}
-{{ member.name }}
-{% endfor %}
-</div>
-
-<div class="col-sm-4 clearfix">
-<h4>Bachelor Students</h4>
-{% for member in site.data.alumni_bsc %}
-{{ member.name }}
-{% endfor %}
-</div>
-
 </div>
