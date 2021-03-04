@@ -6,7 +6,7 @@ permalink: /pictures/
 ---
 
 # Pictures
-Jump to: [Leiden](#leiden), [ETHZ](#ethz), [Cornell](#cornell), [St Andrews](#st-andrews)
+Jump to: [Gallery](#gallery), [Art from Donna](#art-from-donna), [Cornell](#cornell), [St Andrews](#st-andrews)
 
 
 ## Wood, Termites, and Fungi (WTF)
