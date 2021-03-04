@@ -6,7 +6,7 @@ permalink: /pictures/
 ---
 
 # Pictures
-Jump to: [Gallery](#gallery), [Art from Donna](#art-from-donna), [Cornell](#cornell), [St Andrews](#st-andrews)
+Jump to: [Gallery](#gallery), [Art from Donna](#art-from-donna), [Brazil Fieldwork December 2019](#brazil-fieldwork-december-2019), [Australia Fieldwork June 2019](#australia-fieldwork-june-2019)
 
 
 ## Wood, Termites, and Fungi (WTF)
