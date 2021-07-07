@@ -20,6 +20,8 @@ Our research group focuses on ecological, evolutionary, and biogeographic determ
         <li data-target="#carousel" data-slide-to="4"></li>
         <li data-target="#carousel" data-slide-to="5"></li>
         <li data-target="#carousel" data-slide-to="6"></li>
+        <li data-target="#carousel" data-slide-to="7"></li>
+
     </ol>
 
     <!-- Items -->
@@ -46,6 +48,8 @@ Our research group focuses on ecological, evolutionary, and biogeographic determ
          <div class="item">
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/slider7.JPG" alt="Slide 7" />
         </div>
+         <div class="item">
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/lab_july.jpeg" alt="Slide 8" />
     </div>
   <a class="left carousel-control" href="#carousel" role="button" data-slide="prev">
     <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
