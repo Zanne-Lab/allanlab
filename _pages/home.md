@@ -6,7 +6,8 @@ sitemap: false
 permalink: /
 ---
 
-Our research group focuses on ecological, evolutionary, and biogeographic determinants of species distributions. We do this by measuring physiological, morphological, and anatomical functional traits across many species. We are located at the [Department of Biology at the University of Miami](https://biology.as.miami.edu/) in Coral Gables, FL.
+Our research group focuses on interactions among plants, microbes and insects, and how they affect carbon cycling and global change under current and future projected climates. To explore at these questions, we also study ecological, evolutionary, and biogeographic determinants of species distributions by measuring physiological, morphological, and anatomical functional traits. We explore ecosystem-level consequences of differences in species and trait distributions, for instance, traits of plants,
+microbes and insects that most affect rates and forms of C release with feedbacks to the earth system. We are located at the [Department of Biology at the University of Miami](https://biology.as.miami.edu/) in Coral Gables, FL, with continuing members at George Washington University based in Washington, DC.
 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="5000" data-pause="hover" >
     <!-- Menu -->
@@ -61,14 +62,16 @@ Our research group focuses on ecological, evolutionary, and biogeographic determ
 
 
 
+In COVID times, we have kept up collaboration on many different projects, spanning from termites and fungi to lignin and solar radiation. With the pandemic preventing many of our classic in-person lab activities, we have gotten creative in staying connected and inspired to learn more about the ecological systems around us. We have been running weekly Zoom lab meetings, discussing current literature in ecology as well as diversity and inclusion. Additionally, we have taken to the lab Slack channel to share photos of our latest creations in the kitchen, as well as lighthearted science humor that is oh so necessary in these times! 
 
-Recently, we have been working on many different projects, spanning from termites and fungi to lignin and solar radiation! With COVID-19 preventing many of our classic in-person lab activities, we have gotten creative in staying connected and inspired to learn more about the ecological systems around us. We have been running weekly Zoom lab meetings, discussing current literature in ecology as well as diversity and inclusion. Additionally, we have taken to the lab Slack channel to share photos of our latest creations in the kitchen, as well as lighthearted science humor that is oh so necessary in these times! 
+    
+While classes take on a different form, we have been cleverly adapting to the online learning format, pursuing interactive R programming sessions as well as bringing in a diverse array of invited speakers from all different scientific backgrounds. Even while some of our international collaborations are on hold when it comes to research, we are still working the best we can with local collaborators to continually ask questions about carbon cycling, forest nutrient dynamics, and decomposition.
 
-While classes take on a different form, we have been cleverly adapting to the online learning format, pursuing interactive R programming sessions as well as bringing in a diverse array of invited speakers from all different scientific backgrounds. Even while some of our international collaborations are on hold when it comes to research, we are still working the best we can with local collaborators in the DMV area to continually ask questions about carbon cycling, forest nutrient dynamics, and decomposition (see [Research](research)).
+    
+We are located at the University of Miami, surrounded by plenty of tropical biology. Even after moving the lab from DC to Florida, we continue to work with our partners from [The Smithsonian Institution](https://www.si.edu/), as well as with the colleagues from the [Smithsonian Environmental Research Center](https://serc.si.edu/) and the [Natural History Museum in London](https://www.nhm.ac.uk/).
 
-We are located at the University of Miami, surrounded by plenty of tropical biology. We love to exchange ideas and work with our partners from [The Smithsonian Institution](https://www.si.edu/), as well as with the colleagues from the [Smithsonian Environmental Research Center](https://serc.si.edu/) and the [Natural History Museum in London](https://www.nhm.ac.uk/).
-
- **If you are interested in joining the team please head to our vacancies page for [more information]({{ site.url }}{{ site.baseurl }}/vacancies)!**
+    
+ **If you are interested in joining the team please head to our [vacancies page](https://zanne-lab.github.io/vacancies) for more information**
 
 <figure class="fourth">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/GWUlogo.png" style="width: 210px">
