@@ -60,6 +60,8 @@ Our research group focuses on interactions among plants, microbes and insects, a
 </div>
     
 
+Our research group focuses on interactions among plants, microbes and insects, and how they affect carbon cycling and global change under current and future projected climates. To explore at these questions, we also study ecological, evolutionary, and biogeographic determinants of species distributions by measuring physiological, morphological, and anatomical functional traits. We explore ecosystem-level consequences of differences in species and trait distributions, for instance, traits of plants, microbes and insects that most affect rates and forms of C release with feedbacks to the earth system. We ask these biogeochemical and macroevolutionary questions at the [Department of Biology at the University of Miami](https://biology.as.miami.edu/) in Coral Gables, FL, with continuing members at George Washington University based in Washington, DC.
+
 In COVID times, we have kept up collaboration on many different projects, spanning from termites and fungi to lignin and solar radiation. With the pandemic preventing many of our classic in-person lab activities, we have gotten creative in staying connected and inspired to learn more about the ecological systems around us. We have been running weekly Zoom lab meetings, discussing current literature in ecology as well as diversity and inclusion. Additionally, we have taken to the lab Slack channel to share photos of our latest creations in the kitchen, as well as lighthearted science humor that is oh so necessary in these times! 
     
 
