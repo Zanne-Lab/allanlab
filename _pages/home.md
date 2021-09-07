@@ -74,8 +74,8 @@ We are located at the University of Miami, surrounded by plenty of tropical biol
 **If you are interested in joining the team please head to our vacancies page for more information**
 
 <figure class="fourth">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/um logo.jpeg" style="width: 110px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/um logo.jpeg" style="width: 140px">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/nsf.png" style="width: 120px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/GWUlogo.png" style="width: 210px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/GWUlogo.png" style="width: 120px">
 
 </figure>
