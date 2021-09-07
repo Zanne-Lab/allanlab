@@ -1,14 +1,12 @@
 ---
 title: "Zanne Lab - Home"
 layout: homelay
-excerpt: "Zanne Lab at George Washington University."
+excerpt: "Zanne Lab at University of Miami."
 sitemap: false
 permalink: /
 ---
 
-**WEBSITE UNDER CONSTRUCTION** 
-
-Our research group focuses on ecological, evolutionary, and biogeographic determinants of species distributions. We do this by measuring physiological, morphological, and anatomical functional traits across many species. We are located at the [Department of Biological Sciences at George Washington University](https://biology.columbian.gwu.edu/) in Washington, DC.
+Our research group focuses on ecological, evolutionary, and biogeographic determinants of species distributions. We do this by measuring physiological, morphological, and anatomical functional traits across many species. We are located at the [Department of Biology at the University of Miami](https://biology.as.miami.edu/) in Coral Gables, FL.
 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="5000" data-pause="hover" >
     <!-- Menu -->
@@ -68,7 +66,7 @@ Recently, we have been working on many different projects, spanning from termite
 
 While classes take on a different form, we have been cleverly adapting to the online learning format, pursuing interactive R programming sessions as well as bringing in a diverse array of invited speakers from all different scientific backgrounds. Even while some of our international collaborations are on hold when it comes to research, we are still working the best we can with local collaborators in the DMV area to continually ask questions about carbon cycling, forest nutrient dynamics, and decomposition (see [Research](research)).
 
-We are located at George Washington University, right in the heart of Washington DC. We love to exchange ideas and work with our neighbors from [The Smithsonian Institution](https://www.si.edu/), as well as with the colleagues from the [Smithsonian Environmental Research Center](https://serc.si.edu/) and the [Natural History Museum in London](https://www.nhm.ac.uk/).
+We are located at the University of Miami, surrounded by plenty of tropical biology. We love to exchange ideas and work with our partners from [The Smithsonian Institution](https://www.si.edu/), as well as with the colleagues from the [Smithsonian Environmental Research Center](https://serc.si.edu/) and the [Natural History Museum in London](https://www.nhm.ac.uk/).
 
  **If you are interested in joining the team please head to our vacancies page for [more information]({{ site.url }}{{ site.baseurl }}/vacancies)!**
 
