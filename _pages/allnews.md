@@ -1,7 +1,7 @@
 ---
 title: "News"
 layout: textlay
-excerpt: "Zanne Lab at George Washington University."
+excerpt: "Zanne Lab at University of Miami."
 sitemap: false
 permalink: /allnews.html
 ---
