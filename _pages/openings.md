@@ -18,7 +18,7 @@ If you are interested in doing graduate work with us, please send an email to me
 For graduate students, we encourage you to take a look at the [NSF-GRFP](https://www.nsfgrfp.org/) for external funding sources.
 
 ### Postdoc opportunities
-We will have a postdoc position opening up in the near future - please contact aezanne@gmail.com if interested. 
+We will have a postdoc position opening up in the near future - please contact aezanne@gmail.com if interested. Additional information will be posted soon!
 
 ### University of Miami undergraduate students
 If you are an undergraduate student at the University of Miami looking for research experience, contact me (or any team member) via email or stop by my office (204A Cox). We would love to learn about what interests you in ecology and global change, and how we can help you grow! 
