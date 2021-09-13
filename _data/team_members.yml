@@ -66,9 +66,11 @@
   photo: logo.jpg
   info: Undergraduate Student 
   email: noracavanaugh@gwmail.gwu.edu 
-  number_educ: 0
-#   education1: I am interested in XXXXX
-
+  number_educ: 3
+  education1: I am interested in how plants develop strategies for survival, growth and reproduction, plant diversity and adaptive radiation. Right now, I'm learning about epiphytes, or air plants, which grow on other plants and have aerial roots rather than being rooted in the ground, making their survival strategies very unique.
+  education2: Favorite species? Southern Magnolia (Magnolia grandiflora)
+  education3: Favorite thing to cook or bake? Banana bread and spicy cookies!
+  
 - name: Donna Davis
   photo: DD_Headshot_2.jpg
   info: Artist-in-residence 
