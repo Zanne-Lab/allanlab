@@ -166,8 +166,3 @@ Jump to: [Gallery](#gallery), [Art from Donna](#art-from-donna), [Brazil Fieldwo
 {% endif %}
 
 <p> &nbsp; </p>
-## St Andrews
-From the [group of Felix Baumberger](http://dqmp.unige.ch/baumberger/) (now at University of Geneva).
-<figure>
-<img src="{{ site.url }}{{ site.baseurl }}/images/picpic/WebpageSTA_red.jpg" width="60%">
-</figure>
