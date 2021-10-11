@@ -11,10 +11,6 @@ Jump to: [Gallery](#gallery), [Art from Donna](#art-from-donna), [Brazil Fieldwo
 
 ## Wood, Termites, and Fungi (WTF)
 
-#### Check out the early days of the WTF project in this fun video!
-
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/19qldIR-41M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
 #### Gallery
 (Right-click *'view image'* to see a larger image.)
 {% assign number_printed = 0 %}
