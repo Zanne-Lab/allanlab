@@ -51,6 +51,19 @@ Jump to: [Gallery](#gallery), [Art from Donna](#art-from-donna), [Brazil Fieldwo
 <p> &nbsp; </p>
 
 #### Art from Donna
+##### Check out some of Donna's artwork on the decomposition process, captured in video form!
+Donna's statement on‘DE-CAY-dence’: My work explores ecological relationships in an effort to try and understand the complex dichotomy between humans and nature with respect to climate change. In reality without a healthy ecosystem, humans and life could not exist, we are intrinsically linked and therefore share the same fate.
+
+This work explores inter-species relationships using 'hidden players' to consider the complex issue of the carbon economy and climate change; the currency of the work is drawn from a scientific research project that investigates tropical deadwood decomposition.
+
+Hidden players essential for this process, such as termites, microbes and fungi are quietly hard at work cycling nutrients, which support the ecological health of our planet. In contrast, humans are consuming resources to fuel our unsustainable, and often-decadent lifestyles.
+
+Through subtle reflections of the viewer is each screen, these ecological portraits simultaneously present these players alongside the human inviting contemplation about roles and accountability within the biosphere.
+
+Playing with the concept of Who IS the fairest' the work challenges our unconscious bias with respect to terms such as pest, germ, decay, versus notions of beauty, value and status; to explore how these beliefs inform our ecological understanding and action.
+
+With the health of ourselves and our planet, both impending concerns at the moment, reflecting on these theme endeavors to provide a platform to consider imagined futures wherein relationships with multi-species kin are respects, understood and equally valued; inviting the viewer to reflect on their own multi-species perspective and personal contribution to the interconnected ecological sphere of life.
+
 {% assign number_printed = 0 %}
 {% for pic in site.data.donna %}
 
