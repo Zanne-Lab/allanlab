@@ -66,6 +66,13 @@ Playing with the concept of Who IS the fairest' the work challenges our unconsci
 
 With the health of ourselves and our planet, both impending concerns at the moment, reflecting on these theme endeavors to provide a platform to consider imagined futures wherein relationships with multi-species kin are respects, understood and equally valued; inviting the viewer to reflect on their own multi-species perspective and personal contribution to the interconnected ecological sphere of life.
 
+##### [DE-Compose](https://vimeo.com/644593938)
+Donna's statement on 'DE-Compose': Single channel projection installation that explores hidden ecological players alongside the human in an effort to try and understand the complex dichotomy between humans and nature with respect to the ecological health of our planet.
+
+Hidden players such as termites, fungi and microbes play an intrinsic role the ecological health of our planet, however are often met with unfavorable connotations such as pest, germ and decay. This work seeks to challenge unconscious bias with respect to such notions to explore how our beliefs inform our ecological understanding and actions; inviting contemplation about inter-species relationships, roles and accountability within the biosphere.
+
+This work was created in response to the 'Wood, Termite, Fungi Project' led by George Washington University, a project that is investigating tropical deadwood decomposition. Special thanks to Rebecca Clement for supplying micro imagery of the termites featured in this work.
+
 {% assign number_printed = 0 %}
 {% for pic in site.data.donna %}
 
