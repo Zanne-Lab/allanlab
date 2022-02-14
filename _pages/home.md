@@ -22,6 +22,7 @@ We ask these biogeochemical and macroevolutionary questions at the [Department o
         <li data-target="#carousel" data-slide-to="6"></li>
         <li data-target="#carousel" data-slide-to="7"></li>
         <li data-target="#carousel" data-slide-to="8"></li>
+        <li data-target="#carousel" data-slide-to="9"></li>
 
 
     </ol>
@@ -55,6 +56,10 @@ We ask these biogeochemical and macroevolutionary questions at the [Department o
         </div>
          <div class="item">
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/lab_july.jpeg" alt="Slide 8" />
+        </div>
+         <div class="item">
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/IMG_9346.jpg" alt="Slide 9" />
+             
     </div>
   <a class="left carousel-control" href="#carousel" role="button" data-slide="prev">
     <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
