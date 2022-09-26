@@ -8,7 +8,7 @@ permalink: /
 
 Our research group focuses on interactions among plants, microbes and insects, and how they affect carbon cycling and global change under current and future projected climates. To explore these questions, we also study ecological, evolutionary, and biogeographic determinants of species distributions by measuring physiological, morphological, and anatomical functional traits. We explore ecosystem-level consequences of differences in species and trait distributions, for instance, traits of plants, microbes and insects that most affect rates and forms of C release with feedbacks to the earth system. 
 
-We ask these biogeochemical and macroevolutionary questions at the [Department of Biology at the University of Miami](https://biology.as.miami.edu/) in Coral Gables, FL, with continuing members at [George Washington University](https://biology.columbian.gwu.edu/) based in Washington, DC.
+We ask these biogeochemical and macroevolutionary questions at the [Department of Biology at the University of Miami](https://biology.as.miami.edu/) in Coral Gables, FL.
 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="5000" data-pause="hover" >
     <!-- Menu -->
