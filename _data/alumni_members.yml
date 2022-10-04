@@ -13,16 +13,19 @@
  - name: Rose Cheney
   photo: Screen Shot 2021-03-04 at 12.04.24.png
   info: Undergraduate Student
+  duration:
   email: cheneyr@gwu.edu
   
 - name: Kelsey Bartlett
   photo: kelsey.jpeg
   info: Undergraduate Student studying the mechanisms and predictors of flower phenology shifts as well as the implications of global change on plant distribution and ecosystem function
+  duration:
   email: kbartlett99@gwmail.gwu.edu 
   
 - name: Nora Cavanaugh
   photo: Screen Shot 2021-08-19 at 10.34.32 PM - Nora Cavanaugh.png
   info: Undergraduate Student studying how plants develop strategies for survival, growth and reproduction, plant diversity and adaptive radiation
+  duration:
   email: noracavanaugh@gwmail.gwu.edu 
 
 - name: Leona Neftaliem
