@@ -8,16 +8,6 @@
   education3: Favorite things to cook? Fermented foods. Dishes that include lemon, mushrooms, rosemary, farro, cumin, zatar, tempeh, arugula, hot sauce, garlic, corn - usually of my own creation.
   education4: Find me at 204A in the Cox Science Center
   
-  
-- name: Baptiste Wijas
-  photo: IMG_0568.JPG
-  info: Postdoc
-  email: b.wijas@student.unsw.edu.au
-  number_educ: 3
-  education1: I have a particular interest in landscape ecology and am interested in the interactions that shape biodiversity and ecosystem functions. My research focuses on wood decomposition processes, herbivory, food webs, drylands and invertebrate detritivores such as termites.
-  education2: Spotted pardalote
-  education3: Vegan tofu, asparagus and mushroom quiche
-  
 - name: Abbey Yatsko
   photo: abbey.jpg
   info: 3rd Year PhD Student
@@ -27,12 +17,6 @@
   education2: Favorite species? Quaking Aspen (Populus tremuloides) - the tree that makes for both the most magical sights and sounds!
   education3: Favorite thing to cook or bake? Vegan banana bread (the more bananas and chocolate chips, the better)
 
-- name: Yuri Souza
-  photo: logo.jpg
-  info: 1st Year PhD Student
-  email: desouza.s.yuri@gmail.com
-  number_educ: 0
- 
 - name: Julliene Monteiro
   photo: logo.jpg
   info: PhD Student (co-supervised)
@@ -54,5 +38,3 @@
   number_educ: 2
   education1: I am a multi-discipline artist intrigued with the idea of connection; my work explores intersections between art and science with a particular focus on natural and social ecosystems.
   education2: For more on Donna's work, check out [her website here](www.donnadavisartist.weebly.com), or check out our photo gallery!
-#   education3:
-#   education4:
