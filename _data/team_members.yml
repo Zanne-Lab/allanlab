@@ -7,29 +7,37 @@
   education2: Favorite species? An impossible question - probably a Proteaceae - Conospermum ericifolium
   education3: Favorite things to cook? Fermented foods. Dishes that include lemon, mushrooms, rosemary, farro, cumin, zatar, tempeh, arugula, hot sauce, garlic, corn - usually of my own creation.
   education4: Find me at 204A in the Cox Science Center
-
-- name: Rebecca Clement
-  photo: Becca.jpg
-  info: 5th Year PhD Student
-  email: rebeccaclement@gwu.edu
+  
+  
+- name: Baptiste Wijas
+  photo: IMG_0568.JPG
+  info: Postdoc
+  email: b.wijas@student.unsw.edu.au
   number_educ: 3
-  education1: I am interested in the evolution and community ecology of insects, especially termites. I love learning about the role that termites play in decomposition and carbon cycling. I am also interested in urban ecology and the ways that insects adapt to living in cities.
-  education2: Favorite species? Nasutitermes magnus (nasute termites)
-  education3: Favorite thing to cook or bake? Veggie burgers
-
-- name: Marc Rosenfield
-  photo: marc.jpeg
+  education1: I have a particular interest in landscape ecology and am interested in the interactions that shape biodiversity and ecosystem functions. My research focuses on wood decomposition processes, herbivory, food webs, drylands and invertebrate detritivores such as termites.
+  education2: Spotted pardalote
+  education3: Vegan tofu, asparagus and mushroom quiche
+  
+- name: Abbey Yatsko
+  photo: abbey.jpg
   info: 3rd Year PhD Student
-  email: mrosenfield@gwmail.gwu.edu
-  number_educ: 1
-  education1: By developing novel carbon flux systems, I hope to understand short- and long-term changes to carbon cycling in urban systems, patchy ecosystems and marine-terrestrial interfaces. It is especially important to understand carbon cycling across marine-terrestrial gradients, as these areas are seeing some of the most intense environmental changes and disturbances.
+  email: ayatsko1@gmail.com
+  number_educ: 3
+  education1: I am interested in how carbon is stored and released from terrestrial ecosystems, particularly focusing on how decomposition releases C in different rates and forms. I am also interested in the role that termites play in decomposition rates in savanna habitats. 
+  education2: Favorite species? Quaking Aspen (Populus tremuloides) - the tree that makes for both the most magical sights and sounds!
+  education3: Favorite thing to cook or bake? Vegan banana bread (the more bananas and chocolate chips, the better)
 
+- name: Yuri Souza
+  photo:
+  info: 1st Year PhD Student
+  email: desouza.s.yuri@gmail.com
+  number_educ: 0
+ 
 - name: Julliene Monteiro
   photo: logo.jpg
   info: PhD Student (co-supervised)
   email: jullienemonteiro@gmail.com
   number_educ: 0
-#   education1: I am interested in...
 
 - name: André Mouro
   photo: andre.png
@@ -38,41 +46,7 @@
   number_educ: 2
   education1: I am currently involved in projects that assess how plant-soil feedbacks influence vegetation structure, organic matter turnover and restoration success of the Brazilian Cerrado. 
   education2: Favorite species? Vochysia thyrsoidea (locally called gomeira), a typical tree species that grows in dystrophic and shallow soil in the Brazilian Cerrado.
-  
-- name: Abbey Yatsko
-  photo: abbey.jpg
-  info: 2nd Year PhD Student
-  email: ayatsko1@gmail.com
-  number_educ: 3
-  education1: I am interested in how carbon is stored and released from terrestrial ecosystems, particularly focusing on how decomposition releases C in different rates and forms. I am also interested in the role that termites play in decomposition rates in different habitats. 
-  education2: Favorite species? Quaking Aspen (Populus tremuloides) - the tree that makes for both the most magical sights and sounds!
-  education3: Favorite thing to cook or bake? Vegan banana bread (the more bananas and chocolate chips, the better)
-  
-- name: Rose Cheney
-  photo: Screen Shot 2021-03-04 at 12.04.24.png
-  info: Undergraduate Student
-  email: cheneyr@gwu.edu
-  number_educ: 0
-#   education1: I am interested in XXXXX
 
-- name: Kelsey Bartlett
-  photo: kelsey.jpeg
-  info: Undergraduate Student 
-  email: kbartlett99@gwmail.gwu.edu 
-  number_educ: 3
-  education1: My current project centers on the mechanisms and predictors of flower phenology shifts. Other research interests include investigating the implications of global change on plant distribution and ecosystem function.
-  education2: Favorite species? My favorite species is probably desert willow (Chilopsis linearis), but the red columbine is a close second (Aquilegia canadensis)!
-  education3: Favorite thing to cook or bake? Lasagna and blackberry scones
-  
-- name: Nora Cavanaugh
-  photo: Screen Shot 2021-08-19 at 10.34.32 PM - Nora Cavanaugh.png
-  info: Undergraduate Student 
-  email: noracavanaugh@gwmail.gwu.edu 
-  number_educ: 3
-  education1: I am interested in how plants develop strategies for survival, growth and reproduction, plant diversity and adaptive radiation. Right now, I'm learning about epiphytes, or air plants, which grow on other plants and have aerial roots rather than being rooted in the ground, making their survival strategies very unique.
-  education2: Favorite species? Southern Magnolia (Magnolia grandiflora)
-  education3: Favorite thing to cook or bake? Banana bread and spicy cookies!
-  
 - name: Donna Davis
   photo: DD_Headshot_2.jpg
   info: Artist-in-residence 
