@@ -1,44 +1,50 @@
+- name: Rebecca Clement
+  photo: Becca.jpg
+  info: PhD student studying Australian termites from evolutionary and biogeochemical perspectives
+  duration: Zanne Lab member from 2017 to 2022, now working on a postdoc studying aphids with the USDA.
+  email: rebeccaclement@gwu.edu
+  
+- name: Marc Rosenfield
+  photo: marc.jpeg
+  info: Masters student studying carbon cycling in urban systems, patchy ecosystems and marine-terrestrial interfaces
+  duration: In the Zanne Lab from 2019 to 2022, now a researcher in Denver working on carbon emissions and nature based solutions.
+  email: mrosenfield@gwmail.gwu.edu
+  
+ - name: Rose Cheney
+  photo: Screen Shot 2021-03-04 at 12.04.24.png
+  info: Undergraduate Student
+  email: cheneyr@gwu.edu
+  
+- name: Kelsey Bartlett
+  photo: kelsey.jpeg
+  info: Undergraduate Student studying the mechanisms and predictors of flower phenology shifts as well as the implications of global change on plant distribution and ecosystem function
+  email: kbartlett99@gwmail.gwu.edu 
+  
+- name: Nora Cavanaugh
+  photo: Screen Shot 2021-08-19 at 10.34.32 PM - Nora Cavanaugh.png
+  info: Undergraduate Student studying how plants develop strategies for survival, growth and reproduction, plant diversity and adaptive radiation
+  email: noracavanaugh@gwmail.gwu.edu 
+
 - name: Leona Neftaliem
   photo: leona.png
-  info: Honors Undergraduate Student, studied wood decomposition and its influence in carbon cycling within various biomes.
-  duration: In the Zanne Lab from 2018 to December 2020, now a SERC scientist with Dr. Roy Rich
+  info: Honors Undergraduate student, studied wood decomposition and its influence in carbon cycling within various biomes
+  duration: In the Zanne Lab from 2018 to December 2020, now a PhD student at Stanford University.
   email: lneftaliem@gwmail.gwu.edu 
-#   number_educ: 3
-#   education1: Master Padova University
-#   education2: Master thesis at Leiden University with <a href="https://www.physics.leidenuniv.nl/vanruitenbeek">Jan van Ruitenbeek</a>
-#   education3: PhD Leiden University!
 
 - name: Habacuc Flores-Moreno
   photo: haba.jpg
-  info: Postdoc in stationed in Cairns, Australia, collaborated and deployed the wood, termite, and fungi (WTF) project
+  info: Postdoc stationed in Cairns, Australia, collaborated and deployed the wood, termite, and fungi (WTF) project
   duration: In the Zanne Lab March 2018 to December 2020, now a Data Curation Analyst at TERN.
   email: habacucfm@gmail.com
-#   number_educ: 4
-#   education1: B.S. Yonsei University, Korea
-#   education2: PhD Yonsei University, Korea with <a href="http://web.yonsei.ac.kr/nano/%ED%95%99%EA%B3%BC%EC%86%8C%EA%B0%9C.htm">In-Whan Lyo</a>
-#   education3: Postdoc POSTECH with <a href="http://caldes.ibs.re.kr/html/caldes_en/">Han Woong Yeom</a>
-#   education4: Postdoc Rutgers with <a href="http://rcem.rutgers.edu/">Sang-Wook Cheong</a>
 
 - name: Marissa Lee
   photo: marissa.jpg
   info: Postdoc
-  duration: In the Zanne Lab XXXX to 2020, now a postdoc in Christine Hawkes’ new lab at NC State University
+  duration: In the Zanne Lab until 2020, now a postdoc in Christine Hawkes’ new lab at NC State University
   email: marissaruthlee@gmail.com 
-#   number_educ: 1
-#   education1: Master Leiden University with Milan Allan
-#   education2:
-#   education3:
-#   education4:
 
 - name: Brad Oberle 
   photo: brad.jpeg
   info: Postdoctoral Scientist & Adjunct Instructor
   duration: In the Zanne Lab 2012 to 2015, now a Assistant Professor of Biology and Environmental Studies at New College of Florida
   email: boberle@ncf.edu
-
-#   number_educ: 2
-#   duration: In the Allan Lab 2018 - 2020
-#   education1: Leidse Instrumentmaker School
-#   education2: Mechanical Engineer , Hogeschool  Delft
-#   education3:
-#   education4:
