@@ -17,23 +17,22 @@
  # education2: Favorite species? Nasutitermes magnus (nasute termites)
  # education3: Favorite thing to cook or bake? Veggie burgers
 
-- name: Marc Rosenfield
-  photo: marc.jpeg
-  info: 3rd Year PhD Student
-  email: mrosenfield@gwmail.gwu.edu
-  number_educ: 1
-  education1: By developing novel carbon flux systems, I hope to understand short- and long-term changes to carbon cycling in urban systems, patchy ecosystems and marine-terrestrial interfaces. It is especially important to understand carbon cycling across marine-terrestrial gradients, as these areas are seeing some of the most intense environmental changes and disturbances.
+#- name: Marc Rosenfield
+#  photo: marc.jpeg
+#  info: 3rd Year PhD Student
+#  email: mrosenfield@gwmail.gwu.edu
+#  number_educ: 1
+#  education1: By developing novel carbon flux systems, I hope to understand short- and long-term changes to carbon cycling in urban systems, patchy ecosystems and marine-terrestrial interfaces. It is especially important to understand carbon cycling across marine-terrestrial gradients, as these areas are seeing some of the most intense environmental changes and disturbances.
 
-- name: Julliene Monteiro
-  photo: logo.jpg
-  info: PhD Student (co-supervised)
-  email: jullienemonteiro@gmail.com
-  number_educ: 0
+#- name: Julliene Monteiro
+#  photo: logo.jpg
+#  info: PhD Student (co-supervised)
+#  email: jullienemonteiro@gmail.com
+#  number_educ: 0
 #   education1: I am interested in...
 
 - name: André Mouro
   photo: andre.png
-	@@ -38,41 +46,7 @@
   number_educ: 2
   education1: I am currently involved in projects that assess how plant-soil feedbacks influence vegetation structure, organic matter turnover and restoration success of the Brazilian Cerrado. 
   education2: Favorite species? Vochysia thyrsoidea (locally called gomeira), a typical tree species that grows in dystrophic and shallow soil in the Brazilian Cerrado.
