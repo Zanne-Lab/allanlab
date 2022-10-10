@@ -23,7 +23,7 @@ Jump to [our team](#our-team), [recent alumni](#recent-alumni), or [past student
   <ul style="overflow: hidden">
 
   {% if member.number_educ == 1 %}
-	@@ -51,14 +49,6 @@ Jump to [our team](#our-team), [recent alumni](#recent-alumni), or [past student
+	
   <li> {{ member.education4 }} </li>
   {% endif %}
 
