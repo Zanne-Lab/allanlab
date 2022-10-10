@@ -16,9 +16,6 @@ Jump to [our team](#our-team), [recent alumni](#recent-alumni), or [past student
 {% assign number_printed = 0 %}
 {% for member in site.data.team_members %}
 
-	@@ -24,9 +23,8 @@ Jump to [our team](#our-team), [recent alumni](#recent-alumni), or [past student
-{% endif %}
-
 <div class="col-sm-6 clearfix">
   <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="42%" style="float: left" />
   <h4>{{ member.name }}</h4>
@@ -41,7 +38,6 @@ Jump to [our team](#our-team), [recent alumni](#recent-alumni), or [past student
   </ul>
 </div>
 
-	@@ -75,7 +65,8 @@ Jump to [our team](#our-team), [recent alumni](#recent-alumni), or [past student
 </div>
 {% endif %}
 
@@ -49,8 +45,6 @@ Jump to [our team](#our-team), [recent alumni](#recent-alumni), or [past student
 
 {% assign number_printed = 0 %}
 {% for member in site.data.alumni_members %}
-	@@ -87,10 +78,9 @@ Jump to [our team](#our-team), [recent alumni](#recent-alumni), or [past student
-{% endif %}
 
 <div class="col-sm-6 clearfix">
   <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="42%" style="float: left" />
@@ -60,7 +54,7 @@ Jump to [our team](#our-team), [recent alumni](#recent-alumni), or [past student
   <ul style="overflow: hidden">
 
   </ul>
-	@@ -108,15 +98,3 @@ Jump to [our team](#our-team), [recent alumni](#recent-alumni), or [past student
+
 {% if even_odd == 1 %}
 </div>
 {% endif %}
