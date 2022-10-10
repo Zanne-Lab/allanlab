@@ -4,10 +4,19 @@
   email: aezanne@gmail.com
   number_educ: 4
   education1: Research interests include ecology, evolution and physiology, especially that of plants and microbes; decomposition, carbon cycling
-  education2: Favorite species? An impossible question - probably a Proteaceae - Conospermum ericifolium
+  education2: Favorite species? An impossible question! Probably a Proteaceae - Conospermum ericifolium
   education3: Favorite things to cook? Fermented foods. Dishes that include lemon, mushrooms, rosemary, farro, cumin, zatar, tempeh, arugula, hot sauce, garlic, corn - usually of my own creation.
   education4: Find me at 204A in the Cox Science Center
 
+- name: Baptiste Wijas
+  photo: IMG_0568.JPG
+  info: Postdoc
+  email: b.wijas@student.unsw.edu.au
+  number_educ: 3
+  education1: I have a particular interest in landscape ecology and am interested in the interactions that shape biodiversity and ecosystem functions. My research focuses on wood decomposition processes, herbivory, food webs, drylands and invertebrate detritivores such as termites.
+  education2: Favorite species? Spotted pardalote
+  education3: Favorite thing to cook or bake? Vegan tofu, asparagus and mushroom quiche
+  
 - name: Abbey Yatsko
   photo: abbey.jpg
   info: 2nd Year PhD Student
@@ -16,6 +25,15 @@
   education1: I am interested in how carbon is stored and released from terrestrial ecosystems, particularly focusing on how decomposition releases C in different rates and forms. I am also interested in the role that termites play in decomposition rates in different habitats. 
   education2: Favorite species? Quaking Aspen (Populus tremuloides) - the tree that makes for both the most magical sights and sounds!
   education3: Favorite thing to cook or bake? Vegan banana bread (the more bananas and chocolate chips, the better)
+
+- name: Yuri Souza
+  photo: yuri.jpg
+  info: 1st Year PhD Student
+  email: desouza.s.yuri@gmail.com
+  number_educ: 3
+  education1: My broad interests are comprehending the Anthropocene’s consequences on organisms and environmental maintenance. Most of my research has focused on understanding how populations, communities, and ecosystems respond to human disturbances from different perspectives. My current interest is understanding how termites might affect below and above-ground processes through tropic cascades."
+  eduation2: Favorite species? Spectacled Owl. This owl has a strong singing call and a funny staring face.
+  education3: Favorite thing to cook or bake? Pasta and pizza!
 
 - name: Donna Davis
   photo: DD_Headshot_2.jpg
