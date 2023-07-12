@@ -1,4 +1,3 @@
-![image](https://github.com/Zanne-Lab/Zanne-Lab.github.io/assets/53024069/286fbc44-76ec-4ea5-9e78-2f5ed23cc44e)---
 title: "Zanne Lab - Research"
 layout: textlay
 excerpt: "Zanne Lab -- Research"
