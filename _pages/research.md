@@ -1,4 +1,4 @@
----
+![image](https://github.com/Zanne-Lab/Zanne-Lab.github.io/assets/53024069/286fbc44-76ec-4ea5-9e78-2f5ed23cc44e)---
 title: "Zanne Lab - Research"
 layout: textlay
 excerpt: "Zanne Lab -- Research"
@@ -12,12 +12,11 @@ Broadly we study how biotic interactions impact biogeochemical cycles. Many of u
 
 Here are some field-based projects that we are currently working on:
 
-**Australia.** *Queensland*: We have a long-term experiment running along a rainfall gradient in Far North Queensland, from rainforest to savannah in which we are quantifying the biomass and carbon storage and turnover of wood. Projects include quantifying internal stem damage in living trees, relative roles of termites versus microbes in decaying deadwood with different wood traits, termite and gut microbiome turnover across species and space and carbon and methane flux rates from experimental deadwood and termite mounds. We will use these data in ecosystem models to predict how biotic wood decay agents affect carbon cycling under current and future climates. We are collaborating with artist Donna Davis to highlight the important roles of hidden players, such as termites and microbes for the carbon cycle. This work is supported by an NSF and NERC grant to Amy Zanne, Steve Allison and Paul Eggleton and in collaboration with the Cernusak, Cheesman, Powell and Cornwell labs in Australia. 
-*New South Wales*: From a 5 year, decay plot plot at the Hawkesbury Campus, Western Sydney University with Jeff Powell and Will Cornwell, we are exploring drivers of wood decay across different species and stem sizes, including wood traits and microbial communities.
+**Australia.** *Queensland*: We have concluded our long-term experiment quantifying the relative role of termites and microbes in carbon storage and turnover of wood across a rainforest to savanna rainfall gradient. Abbey continues to focus in this part of the world for her PhD research, quantifying internal stem damage in living trees and understanding methane flux rates from termite mounds across the savanna. For our Queensland projects we have collaborated with artist Donna Davis to highlight the important roles of hidden players, such as termites and microbes for the carbon cycle. This work was supported by an NSF and NERC grant to Amy Zanne, Steve Allison and Paul Eggleton and in collaboration with the Cernusak, Cheesman, Powell and Cornwell labs in Australia. New South Wales: From a 5-year, decay plot plot at the Hawkesbury Campus, Western Sydney University with Jeff Powell and Will Cornwell, we are exploring drivers of wood decay across different species and stem sizes, including wood traits and microbial communities.
 
 **Brazil.**
 ![]({{ site.url }}{{ site.baseurl }}/images/respic/brazil.png){: style="width: 250px; float: left; margin: 0px  10px"}
-*Goiás*: We are beginning projects in collaboration with Rafael Oliveira in Chapada dos Veadieros. In this work we will examine carbon dynamics in a seasonally flooded grassland, the impact of murundus (earth mounds, possibly termite derived) in shifting these carbon dynamics, and termite/*Vellozia* interactions in cerrado systems. 
+*Goiás*: We are beginning projects looking at shifts in wetlands and greenhouse gas production in collaboration with Rafael Oliveira in Chapada dos Veadieros. In this work we will examine carbon dynamics in a seasonally flooded grassland, the impact of murundus (earth mounds, possibly termite derived) in shifting these carbon dynamics, and termite/*Vellozia* interactions in cerrado systems. Additionally, Yuri has been hard at work for his PhD research on characterizing termite species distributions across the cerrado.
 
 **USA.** *DC, MD & VA*: In collaboration with Roy Rich and Keryn Gedan, we are measuring fine scale carbon levels across Washington, DC during and after COVID19 lockdown, as well as impact of sea level rise, ghost forest formation and marsh migration on CO2 levels. With Sean McMahon and Jess Shue at Smithsonian Environmental Research Center, we are measuring downed deadwood turnover, carbon fluxes and microbial communities with decay stage. *FL*: Watch this space! New projects soon.
 
