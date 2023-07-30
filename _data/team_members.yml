@@ -35,6 +35,15 @@
   education2: Favorite species? Spectacled Owl. This owl has a strong singing call and a funny staring face.
   education3: Favorite thing to cook or bake? Pasta and pizza!
 
+- name: Bruna Hornink
+  photo: yuri.jpg
+  info: 2nd Year PhD Student
+  email: bhornink@gmail.com
+  number_educ: 3
+  education1: I am interested in studying how wood traits respond to climate and atmospheric changes over time, specifically within various environmental conditions. Also, my interests extend to tropical forest management and the diverse applications of dendrochronology in multidisciplinary settings.
+  education2: Favorite species? Handroanthus impetiginosus
+  education3: Favorite thing to cook or bake? Any kind of pasta, with or without sauce.
+
 - name: Donna Davis
   photo: DD_Headshot_2.jpg
   info: Artist-in-residence 
