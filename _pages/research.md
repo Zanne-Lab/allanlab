@@ -19,6 +19,7 @@ Here are some field-based projects that we are currently working on:
 *Goiás*: We have projects looking at shifts in wetlands and greenhouse gas production in collaboration with Rafael Oliveira and Natashi Pilon in Chapada dos Veadieros. In this work we are examining carbon dynamics in a seasonally flooded grassland, the impact of murundus (earth mounds, possibly termite derived) in shifting these carbon dynamics, and termite/Vellozia interactions in cerrado systems. Additionally, Yuri has been hard at work for his PhD research on characterizing termite species distributions across the cerrado.
 
 **Chile.** We are working with Eduardo Castro on projects in Southern Chile examining the impact of global warming and sea level rise on the rates and forms of carbon emissions from soils. 
+![]({{ site.url }}{{ site.baseurl }}/images/respic/chile.jpg){: style="float: left; margin: 0px  10px"}
 
 **USA.** *DC, MD & VA*: In collaboration with Roy Rich and Keryn Gedan, we are measuring fine scale carbon levels across Washington, DC during and after COVID19 lockdown, as well as impact of sea level rise, ghost forest formation and marsh migration on CO2 levels. With Sean McMahon and Jess Shue at Smithsonian Environmental Research Center, we are measuring downed deadwood turnover, carbon fluxes and microbial communities with decay stage. *FL*: Watch this space! New projects soon.
 
