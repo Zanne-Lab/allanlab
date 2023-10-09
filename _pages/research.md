@@ -13,6 +13,7 @@ Broadly we study how biotic interactions impact biogeochemical cycles. Many of u
 Here are some field-based projects that we are currently working on:
 
 **Australia.** *Queensland*: We have concluded our long-term experiment quantifying the relative role of termites and microbes in carbon storage and turnover of wood across a rainforest to savanna rainfall gradient. Abbey continues to focus in this part of the world for her PhD research, quantifying internal stem damage in living trees and understanding methane flux rates from termite mounds across the savanna. For our Queensland projects we have collaborated with artist Donna Davis to highlight the important roles of hidden players, such as termites and microbes for the carbon cycle. This work was supported by an NSF and NERC grant to Amy Zanne, Steve Allison and Paul Eggleton and in collaboration with the Cernusak, Cheesman, Powell and Cornwell labs in Australia. New South Wales: From a 5-year, decay plot plot at the Hawkesbury Campus, Western Sydney University with Jeff Powell and Will Cornwell, we are exploring drivers of wood decay across different species and stem sizes, including wood traits and microbial communities.
+![]({{ site.url }}{{ site.baseurl }}/images/respic/brazil.png){: style="width: 250px; float: right; margin: 0px  10px"}
 
 **Brazil.**
 ![]({{ site.url }}{{ site.baseurl }}/images/respic/brazil.png){: style="width: 250px; float: left; margin: 0px  10px"}
