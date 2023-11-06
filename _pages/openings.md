@@ -7,7 +7,7 @@ permalink: /vacancies
 ---
 
 # Open positions
-![]({{ site.url }}{{ site.baseurl }}/images/respic/aus.jpg){: style="width: 250px; float: left; margin: 0px  10px"}
+![]({{ site.url }}{{ site.baseurl }}/images/slider7001400/android-chrome-512x512.png){: style="width: 250px; float: left; margin: 0px  10px"}
 We have open positions for graduate students to join the lab. We are also always looking for undergraduate students to join our group! Successful applicants would join an interactive lab group. Broadly we study how biotic interactions impact biogeochemical cycles. Many in our group explore how plant construction influences community structure and function (from morphology to genes) of biotic decay agents. Our lab also examines the consequences of these interactions for ecosystem carbon cycles, especially as climate changes. Field projects are currently primarily based in the US, Australia, and Brazil. Other lab projects include solar radiation impacts on litter and wood decay, microbiome assembly on leaves and fruits, macroevolution and functional ecology of plants, and termites and microbes around the globe.
 
 ### Applications for PhD students
