@@ -81,9 +81,8 @@ Amy has also been working in Brazil, as she has been based in Campinas for the p
 Abbey (3rd year PhD student) is also off to fieldwork, working in Queensland, Australia to measure termite mound carbon dioxide and methane fluxes. She is also working to write up many projects exploring how internal damage in trees changes the amount of carbon that they store. 
 <br />  
 <br />
-If you are interested in joining the team please head to our vacancies page for more information. 
-<br />   
-Thank you to the talented Donna Davis for designing the new Zanne Lab logo!
+If you are interested in joining the team please head to our vacancies page for more information. Thank you to the talented Donna Davis for designing the new Zanne Lab logo!
+<br /> 
 <br /> 
 <figure class="fourth">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/android-chrome-512x512.png" style="width: 140px">
