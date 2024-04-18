@@ -72,13 +72,13 @@ We ask these biogeochemical and macroevolutionary questions at the [Department o
 </div>
 <br />   
 <br />
-For the 2023 field season, Yuri (1st year PhD student) has been kicking off his research projects in the Brazilian cerrado. Yuri has been sampling lots of termites across peatlands and savannas to describe the termite diversity in this system. He's also been learning to fly drones to understand the spatial distribution and density of termite mounds and murundus in the cerrado! 
+For the 2023 field season, Yuri (2nd year PhD student) has been kicking off his research projects in the Brazilian cerrado. Yuri has been sampling lots of termites across peatlands and savannas to describe the termite diversity in this system. He's also been learning to fly drones to understand the spatial distribution and density of termite mounds and murundus in the cerrado! 
 <br />
 <br />
 Amy has also been working in Brazil, as she has been based in Campinas for the past year. She has been looking to the cerrado for inspiration to understand carbon fluxes across different soil moisture gradients in savanna ecosystems. 
 <br />
 <br />
-Abbey (3rd year PhD student) is also off to fieldwork, working in Queensland, Australia to measure termite mound carbon dioxide and methane fluxes. She is also working to write up many projects exploring how internal damage in trees changes the amount of carbon that they store. 
+Abbey (4th year PhD student) is also off to fieldwork, working in Queensland, Australia to measure termite mound carbon dioxide and methane fluxes. She is also working to write up many projects exploring how internal damage in trees changes the amount of carbon that they store. 
 <br />  
 <br />
 If you are interested in joining the team please head to our vacancies page for more information. Thank you to the talented Donna Davis for designing the new Zanne Lab logo!
