@@ -1,6 +1,6 @@
 - title: "Shifts in internal stem damage along a tropical precipitation gradient and implications for forest biomass estimation"
   image: woodtraits.jpeg
-  description: We investigated internal stem damage across five sites in tropical Australia along a precipitation gradient. We estimated the amount of internal aboveground biomass damaged in living trees and measured four potential stem damage predictors: wood density, stem diameter, annual precipitation, and termite pressure (measured as termite damage in downed deadwood). Incorporating stem damage reduced aboveground biomass estimates by > 30% in Australian savannas, compared to only 3% in rainforests. Accurate estimates of carbon storage across woody plant communities are critical for understanding the global carbon budget.
+  description: We investigated internal stem damage across five sites in tropical Australia along a precipitation gradient. We estimated the amount of internal aboveground biomass damaged in living trees and measured four potential stem damage predictors: wood density, stem diameter, annual precipitation, and termite pressure (measured as termite damage in downed deadwood). Incorporating stem damage reduced aboveground biomass estimates by > 30% in Australian savannas, compared to only 3% in rainforests.
   authors: Habacuc Flores-Moreno, Abbey R. Yatsko, Alexander W. Cheesman, Steven D. Allison, Lucas A. Cernusak, Rose Cheney, Rebecca Clement, Wendy Cooper, Paul Eggleton, Rigel Jensen, Marc Rosenfield, Amy E. Zanne
   link: 
     url: https://nph.onlinelibrary.wiley.com/doi/full/10.1111/nph.19417
@@ -95,16 +95,6 @@
     url: https://link.springer.com/article/10.1007/s10021-017-0136-x
     display:  Ecosystems (2018)
   highlight: 1
-
-- title: "Fly family diversity shows evidence of livestock grazing pressure in Mongolia (Insecta: Diptera)"
-  image: pub7.png
-  authors: Rebecca A. Clement, Paul B. Frandsen, Tristan McKnight, C Riley Nelson
-  description: We examine how increasing grazing pressures on the Mongolian steppe affect Diptera diversity and abundance. We observed that fly family diversity decreased in heavily grazed sites and that diptera communities at sites with intense grazing have proportionally higher prevalence of taxa from the families Muscidae, Sepsidae, Ephydridae, Chloropidae, and Tachinidae, two of which are often associated with animal waste. 
-  link:
-    url: hhttps://link.springer.com/article/10.1007/s10841-018-0056-x
-    display:  Journal of Insect Conservation (2018)
-  highlight: 1
-  news2:
 
 - title: "Towards a worldwide wood economics spectrum"
   image: pub3.png
