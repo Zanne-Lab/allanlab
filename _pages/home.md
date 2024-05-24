@@ -40,7 +40,7 @@ We ask these biogeochemical and macroevolutionary questions at the [Department o
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/MIAMI.jpg" alt="Slide 3" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/SA2.jpg" alt="Slide 4" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/thomas_termite.jpg" alt="Slide 4" />
         </div>
         <div class="item">
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/yuridrone.jpg" alt="Slide 5" />
@@ -49,13 +49,13 @@ We ask these biogeochemical and macroevolutionary questions at the [Department o
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/amyhike.jpg" alt="Slide 6" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/SA.jpg" alt="Slide 7" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/termite_store.jpg" alt="Slide 7" />
         </div>       
          <div class="item">
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/SA3.jpg" alt="Slide 8" />
         </div>
          <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/slider6.jpg" alt="Slide 8" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/amy_cold.jpg" alt="Slide 8" />
         </div>
          <div class="item">
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/DRO.JPG" alt="Slide 9" />
