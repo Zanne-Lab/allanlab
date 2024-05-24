@@ -6,7 +6,7 @@ permalink: /pictures/
 ---
 
 # Pictures
-Jump to: [Abbey's Australia Fieldwork 2023-2024](#abbeys-australia-fieldwork-2023-2024), [Art from Donna](#art-from-donna), [Brazil Fieldwork December 2019](#brazil-fieldwork-december-2019), [Australia Fieldwork June 2019](#australia-fieldwork-june-2019)
+Jump to: [Abbey's Australia Fieldwork 2023-2024](#abbeys-australia-fieldwork-2023-2024), [Yuri's Brazil Fieldwork 2023](#yuris-brazil-fieldwork-2023), [Art from Donna](#art-from-donna), [Brazil Fieldwork December 2019](#brazil-fieldwork-december-2019), [Australia Fieldwork June 2019](#australia-fieldwork-june-2019)
 
 #### Amy's Research Adventures
 {% assign number_printed = 0 %}
