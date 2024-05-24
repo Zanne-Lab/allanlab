@@ -6,7 +6,7 @@ permalink: /pictures/
 ---
 
 # Pictures
-Jump to: [Abbey's Australia Fieldwork 2023-2024](#abbeys-australia-fieldwork-2023-2024), [Yuri's Brazil Fieldwork 2023](#yuris-brazil-fieldwork-2023), [Brazil Fieldwork and Collaborations](brazil-fieldwork-and-collaborations), [Art from Donna](#art-from-donna), [Brazil Fieldwork December 2019](#brazil-fieldwork-december-2019), [Australia Fieldwork June 2019](#australia-fieldwork-june-2019)
+Jump to: [Abbey's Australia Fieldwork 2023-2024](#abbeys-australia-fieldwork-2023-2024), [Yuri's Brazil Fieldwork 2023](#yuris-brazil-fieldwork-2023), [Brazil Collaborations](brazil-collaborations), [Art from Donna](#art-from-donna), [Brazil Fieldwork December 2019](#brazil-fieldwork-december-2019), [Australia Fieldwork June 2019](#australia-fieldwork-june-2019)
 
 #### Amy's Research Adventures
 {% assign number_printed = 0 %}
@@ -122,7 +122,7 @@ Jump to: [Abbey's Australia Fieldwork 2023-2024](#abbeys-australia-fieldwork-202
 
 <p> &nbsp; </p>
 
-#### Brazil Fieldwork and Collaborations
+#### Brazil Collaborations
 {% assign number_printed = 0 %}
 {% for pic in site.data.brazil_collab %}
 
