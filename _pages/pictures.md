@@ -9,9 +9,9 @@ permalink: /pictures/
 Jump to: [Gallery](#gallery), [Art from Donna](#art-from-donna), [Brazil Fieldwork December 2019](#brazil-fieldwork-december-2019), [Australia Fieldwork June 2019](#australia-fieldwork-june-2019)
 
 
-#### Australia Fieldwork June 2019
+#### Yuri's Brazil Fieldwork 2023
 {% assign number_printed = 0 %}
-{% for pic in site.data.aus %}
+{% for pic in site.data.yuri_brazil %}
 
 {% assign even_odd = number_printed | modulo: 4 %}
 
