@@ -6,7 +6,7 @@ permalink: /pictures/
 ---
 
 # Pictures
-Jump to: [Abbey's Australia Fieldwork 2023-2024](#abbeys-australia-fieldwork-2023-2024), [Yuri's Brazil Fieldwork 2023](#yuris-brazil-fieldwork-2023), [Art from Donna](#art-from-donna), [Brazil Fieldwork December 2019](#brazil-fieldwork-december-2019), [Australia Fieldwork June 2019](#australia-fieldwork-june-2019)
+Jump to: [Abbey's Australia Fieldwork 2023-2024](#abbeys-australia-fieldwork-2023-2024), [Yuri's Brazil Fieldwork 2023](#yuris-brazil-fieldwork-2023), [Brazil Fieldwork and Collaborations](brazil-fieldwork-and-collaborations),[Art from Donna](#art-from-donna), [Brazil Fieldwork December 2019](#brazil-fieldwork-december-2019), [Australia Fieldwork June 2019](#australia-fieldwork-june-2019)
 
 #### Amy's Research Adventures
 {% assign number_printed = 0 %}
@@ -122,7 +122,7 @@ Jump to: [Abbey's Australia Fieldwork 2023-2024](#abbeys-australia-fieldwork-202
 
 <p> &nbsp; </p>
 
-#### Brazil fieldwork and collaborations
+#### Brazil Fieldwork and Collaborations
 {% assign number_printed = 0 %}
 {% for pic in site.data.brazil_collab %}
 
@@ -164,7 +164,7 @@ Jump to: [Abbey's Australia Fieldwork 2023-2024](#abbeys-australia-fieldwork-202
 ##### Check out some of Donna's artwork on the decomposition process, captured in video form!
 
 ##### [DE-CAY-dence](https://vimeo.com/538499033)
-Donna's statement on‘DE-CAY-dence’: My work explores ecological relationships in an effort to try and understand the complex dichotomy between humans and nature with respect to climate change. In reality without a healthy ecosystem, humans and life could not exist, we are intrinsically linked and therefore share the same fate.
+Donna's statement on ‘DE-CAY-dence’: My work explores ecological relationships in an effort to try and understand the complex dichotomy between humans and nature with respect to climate change. In reality without a healthy ecosystem, humans and life could not exist, we are intrinsically linked and therefore share the same fate.
 
 This work explores inter-species relationships using 'hidden players' to consider the complex issue of the carbon economy and climate change; the currency of the work is drawn from a scientific research project that investigates tropical deadwood decomposition.
 
