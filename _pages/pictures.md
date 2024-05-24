@@ -49,7 +49,7 @@ Jump to: [Gallery](#gallery), [Art from Donna](#art-from-donna), [Brazil Fieldwo
 
 #### Brazil fieldwork and collaborations
 {% assign number_printed = 0 %}
-{% for pic in site.data.yuri_brazil %}
+{% for pic in site.data.brazil_collab %}
 
 {% assign even_odd = number_printed | modulo: 4 %}
 
