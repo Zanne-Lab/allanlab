@@ -91,6 +91,6 @@ If you are interested in joining the team please head to our vacancies page for 
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/android-chrome-512x512.png" style="width: 140px">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/um logo.jpeg" style="width: 140px">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/nsf.png" style="width: 120px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/GWUlogo.png" style="width: 120px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Carylogo.jpeg" style="width: 120px">
 
 </figure>
