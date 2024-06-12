@@ -6,9 +6,9 @@ sitemap: false
 permalink: /
 ---
 
-Our research group focuses on interactions among plants, microbes and insects, and how they affect carbon cycling and global change under current and future projected climates. To explore these questions, we also study ecological, evolutionary, and biogeographic determinants of species distributions by measuring physiological, morphological, and anatomical functional traits. We explore ecosystem-level consequences of differences in species and trait distributions, for instance, traits of plants, microbes and insects that most affect rates and forms of C release with feedbacks to the earth system. 
+Our research group focuses on interactions among plants, microbes and insects, and how they affect carbon cycling under current and future projected climates. To explore these questions, we also study ecological, evolutionary, and biogeographic determinants of species distributions by measuring physiological, morphological, and anatomical functional traits. We explore ecosystem-level consequences of differences in species and trait distributions, for instance, traits of plants, microbes and insects that most affect rates and forms of C release with feedback to the earth system.
 
-We ask these biogeochemical and macroevolutionary questions at the [Department of Biology at the University of Miami](https://biology.as.miami.edu/) in Coral Gables, FL, surrounded by plenty of tropical biology.
+We ask these biogeochemical and macroevolutionary questions at the [Cary Institute of Ecosystem Studies](https://www.caryinstitute.org/) in Millbrook, NY and in the [Department of Biology at the University of Miami](https://biology.as.miami.edu/) in Coral Gables, FL.
 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="5000" data-pause="hover" >
     <!-- Menu -->
@@ -72,10 +72,10 @@ We ask these biogeochemical and macroevolutionary questions at the [Department o
 </div>
 <br />   
 <br />
-For the 2023 field season, Yuri (2nd year PhD student) has been kicking off his research projects in the Brazilian cerrado. Yuri has been sampling lots of termites across peatlands and savannas to describe the termite diversity in this system. He's also been learning to fly drones to understand the spatial distribution and density of termite mounds and murundus in the cerrado! 
+For the 2024 North hemisphere summer, the Zanne Lab has many projects underway all over the map. Amy is attending various meetings the USA, Brazil and Chile, as she builds up projects in the Brazilian Cerrado, Chilean fjords and Patagonia and Antarctica. She is also putting on her New Phytologist Editor’s hat, joining both the next generation scientists and plant-fungal invasions meetings. She will be shifting lab headquarters up to Cary Institute this summer. 
 <br />
 <br />
-Amy has also been working in Brazil, as she has been based in Campinas for the past year. She has been looking to the cerrado for inspiration to understand carbon fluxes across different soil moisture gradients in savanna ecosystems. 
+Abbey (5th year PhD student) completed her fieldwork in Queensland, Australia and is avidly analyzing data and writing papers on internal stem damage of trees and termite mound carbon dioxide and methane fluxes. She was recently awarded NSF GRFP INTERN funding to spend 6 months based with [ArborMeta](https://www.arbormeta.au/), learning the fundamentals of LiDAR in forest research. 
 <br />
 <br />
 Abbey (4th year PhD student) is also off to fieldwork, working in Queensland, Australia to measure termite mound carbon dioxide and methane fluxes. She is also working to write up many projects exploring how internal damage in trees changes the amount of carbon that they store. 
