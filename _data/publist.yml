@@ -1,3 +1,43 @@
+- title: "Tree rings of Terminalia catappa Linn. and climate variability in a tropical South American estuary"
+  image: hornickAFM2024.jpg
+  description: This paper focuses on the detection of breakpoints, indicative of shifts in ecosystem functioning, while also determining relevant ecosystem characteristics and climatic drivers that increase susceptibility to these shifts within the semi-arid to arid savanna biome. Utilising a remote sensing change detection approach and rain use efficiency (RaUE) as a proxy for ecosystem functioning, spatial and temporal patterns of breakpoints in the savanna biome were identified. We then employed a novel combination of survival analysis and remote sensing time series analysis to compare ecosystem characteristics and climatic drivers in areas experiencing breakpoints versus areas with stable ecosystem functioning.
+  authors: Renata C. Bovi, Daigard R. Ortega-Rodriguez, Bruna Hornink, Gabriela M. Olmedo, Gabriel Assis-Pereira, Mario Tomazello-Filho, Miguel Cooper, Angelo F. Bernardino, Tiago O. Ferreira
+  link: 
+    url: https://doi.org/10.1016/j.agrformet.2024.110214
+    display:  Agricultural and Forest Meteorology (2024)
+  highlight: 1
+  news2:
+
+- title: "Critical slowing down of the Amazon forest after increased drought occurrence"
+  image: bernardinoPNAS2024.jpg
+  description: This paper focuses on the detection of breakpoints, indicative of shifts in ecosystem functioning, while also determining relevant ecosystem characteristics and climatic drivers that increase susceptibility to these shifts within the semi-arid to arid savanna biome. Utilising a remote sensing change detection approach and rain use efficiency (RaUE) as a proxy for ecosystem functioning, spatial and temporal patterns of breakpoints in the savanna biome were identified. We then employed a novel combination of survival analysis and remote sensing time series analysis to compare ecosystem characteristics and climatic drivers in areas experiencing breakpoints versus areas with stable ecosystem functioning.
+  authors: Johanna Van Passel, Paulo N. Bernardino, Stef Lhermitte, Bianca F. Rius, Marina Hirota, Timo Conradi, Wanda de Keersmaeckerh, Koenraad Van Meerbeeka, Ben Somers
+  link: 
+    url: https://doi.org/10.1073/pnas.2316924121
+    display:  Proceedings of the National Academy of Sciences (2024)
+  highlight: 1
+  news2:
+
+- title: "Explore before you restore: Incorporating complex systems thinking in ecosystem restoration"
+  image: bernardinoJAE2024.jpg
+  description: This paper focuses on the detection of breakpoints, indicative of shifts in ecosystem functioning, while also determining relevant ecosystem characteristics and climatic drivers that increase susceptibility to these shifts within the semi-arid to arid savanna biome. Utilising a remote sensing change detection approach and rain use efficiency (RaUE) as a proxy for ecosystem functioning, spatial and temporal patterns of breakpoints in the savanna biome were identified. We then employed a novel combination of survival analysis and remote sensing time series analysis to compare ecosystem characteristics and climatic drivers in areas experiencing breakpoints versus areas with stable ecosystem functioning.
+  authors: S. L. Maes, M. P. Perring, R. Cohen, F. K. Akinnifesi, A. Bargués-Tobella, J.-F. Bastin, M. Bauters, Paulo N. Bernardino, P. H. S. Brancalion, J. M. Bullock, D. Ellison, A. Fayolle, T. Fremout, G. D. Gann, H. Hishe, M. Holmgren, U. Ilstedt, G. Mahy, C. Messier, C. L. Parr, C. M. Ryan, M. Sacande, M. Sankaran, M. S. Scheffer, K. N. Suding, K. Van Meerbeek, H. Verbeeck, B. J. P. Verbist, K. Verheyen, L. A. Winowiecki, B. Muys.
+  link: 
+    url: https://doi.org/10.1111/1365-2664.14614
+    display:  Journal of Applied Ecology (2024)
+  highlight: 1
+  news2:
+
+- title: "Wetness severity increases abrupt shifts in ecosystem functioning in arid savannas"
+  image: bernardinoGCB2024.jpg
+  description: This paper focuses on the detection of breakpoints, indicative of shifts in ecosystem functioning, while also determining relevant ecosystem characteristics and climatic drivers that increase susceptibility to these shifts within the semi-arid to arid savanna biome. Utilising a remote sensing change detection approach and rain use efficiency (RaUE) as a proxy for ecosystem functioning, spatial and temporal patterns of breakpoints in the savanna biome were identified. We then employed a novel combination of survival analysis and remote sensing time series analysis to compare ecosystem characteristics and climatic drivers in areas experiencing breakpoints versus areas with stable ecosystem functioning.
+  authors: Liezl M. Vermeulen, Bruno Verbist, Koenraad Van Meerbeek, Jasper Slingsby, Paulo N. Bernardino, Ben Somers
+  link: 
+    url: https://doi.org/10.1111/gcb.17235
+    display:  Global Change Biology (2024)
+  highlight: 1
+  news2:
+
 - title: "Estimating vegetation water content from Sentinel-1 C-band SAR data over savanna and grassland ecosystems"
   image: bernardinoERL2024.jpg
   description: This study investigates the potential of Sentinel-1 C-band Synthetic Aperture Radar (SAR) data for estimating VWC in natural ecosystems in central Brazil. We assessed (i) how well Sentinel-1 SAR data can capture variations in VWC over three different vegetation types (i.e. dry and waterlogged grasslands, and savannas) and (ii) how the studied vegetation types respond to seasonal dry periods in terms of water content.
