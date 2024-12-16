@@ -1,13 +1,3 @@
-- title: "Soil acidification controls invasive plant species in the restoration of degraded Cerrado grasslands"
-  image: veronaRE2024.jpg
-  description:  In a Cerrado grassland undergoing restoration study, we tested whether soil acidification could restore native soil conditions and control invasives using 56 plots across 14 blocks. We hypothesized that decreased soil pH and nutrient availability would reduce invasive biomass and enhance diversity. We show that acidification reduced invasive biomass by 71%, with acidification negatively affecting invasives while sparing natives.
-  authors: Demétrius Lira-Martins, Rafael O. Xavier, Guilherme G. Mazzochini, Larissa S. Verona, Thalia Andreuccetti, Éder S. Martins, Fernanda V. de Barros, Mariana N. Furtado, Bethina Stein, Anna Abrahão, Alexandre Sampaio, Isabel Schmidt, Lucy Rowland, Rafael S. Oliveira
-  link: 
-    url: https://doi.org/10.1111/rec.14294
-    display:  Restoration Ecology (2024)
-  highlight: 1
-  news2:
-
 - title: "Tree rings of Terminalia catappa Linn. and climate variability in a tropical South American estuary"
   image: hornickAFM2024.jpg
   description: This paper focuses on the detection of breakpoints, indicative of shifts in ecosystem functioning, while also determining relevant ecosystem characteristics and climatic drivers that increase susceptibility to these shifts within the semi-arid to arid savanna biome. Utilising a remote sensing change detection approach and rain use efficiency (RaUE) as a proxy for ecosystem functioning, spatial and temporal patterns of breakpoints in the savanna biome were identified. We then employed a novel combination of survival analysis and remote sensing time series analysis to compare ecosystem characteristics and climatic drivers in areas experiencing breakpoints versus areas with stable ecosystem functioning.
@@ -15,6 +5,16 @@
   link: 
     url: https://doi.org/10.1016/j.agrformet.2024.110214
     display:  Agricultural and Forest Meteorology (2024)
+  highlight: 1
+  news2:
+  
+- title: "Soil acidification controls invasive plant species in the restoration of degraded Cerrado grasslands"
+  image: veronaRE2024.jpg
+  description:  In a Cerrado grassland undergoing restoration study, we tested whether soil acidification could restore native soil conditions and control invasives using 56 plots across 14 blocks. We hypothesized that decreased soil pH and nutrient availability would reduce invasive biomass and enhance diversity. We show that acidification reduced invasive biomass by 71%, with acidification negatively affecting invasives while sparing natives.
+  authors: Demétrius Lira-Martins, Rafael O. Xavier, Guilherme G. Mazzochini, Larissa S. Verona, Thalia Andreuccetti, Éder S. Martins, Fernanda V. de Barros, Mariana N. Furtado, Bethina Stein, Anna Abrahão, Alexandre Sampaio, Isabel Schmidt, Lucy Rowland, Rafael S. Oliveira
+  link: 
+    url: https://doi.org/10.1111/rec.14294
+    display:  Restoration Ecology (2024)
   highlight: 1
   news2:
 
